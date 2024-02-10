@@ -51,11 +51,11 @@
 /* 修改灯笼的字体 */
 
 .d-box .d1::after {
-    content: '龙行龘龘';
+    content: '前程似锦';
 }
 
 .d-box1 .d1::after {
-    content: '前程朤朤';
+    content: '龙年大吉';
 }
 
 .d-box1 .d1,
@@ -231,7 +231,7 @@
     right: 51px;
     width: 75px;
     border-radius: 57px/89px;
-    background: url(https://tuchuang.voooe.cn/images/2023/01/01/e6f0b2a0d44bbfb2de864b7d25cfe0ff.webp) no-repeat;
+    background: url(https://cdn.staticaly.com/gh/Sonny1996/tuchuang@main/img/龙.png) no-repeat;
     background-position: center;
     background-size: 105px auto;
 }
