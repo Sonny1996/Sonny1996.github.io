@@ -5135,6 +5135,16 @@ li.categoryBar-list-item {
   -ms-transition: all 0.5s;
   transition: all 0.5s;
 }
+#rightside.rightside-show {
+  opacity: 0.8;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80);
+  -webkit-transform: translate(-58px, 0);
+  -moz-transform: translate(-58px, 0);
+  -o-transform: translate(-58px, 0);
+  -ms-transform: translate(-58px, 0);
+  transform: translate(-58px, 0);
+}
 #rightside #rightside-config-hide {
   height: 0;
   opacity: 0;
