@@ -125,21 +125,21 @@ var lunar = calendarFormatter.solar2lunar();
 if ((lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "初六") || (lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "初五") || (lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "初四") || (lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "初三") || (lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "初二") || (lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "初一") || (lunar["IMonthCn"] == "腊月" && lunar["IDayCn"] == "三十") || (lunar["IMonthCn"] == "腊月" && lunar["IDayCn"] == "廿九")) {
     //春节，本来只有大年三十到初六，但是有时候除夕是大年二十九，所以也加上了
     if (sessionStorage.getItem("isPopupWindow") != "1") {
-        Swal.fire(y.toString() + "年新年快乐\n🎊挽风祝你心想事成，诸事顺利🎊");
+        Swal.fire(y.toString() + "年新年快乐\n🎊挽风祝您平安顺遂🎊");
         sessionStorage.setItem("isPopupWindow", "1");
     }
 }
 if ((lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "十五")) {
     //元宵节
     if (sessionStorage.getItem("isPopupWindow") != "1") {
-        Swal.fire("元宵节快乐\n挽风送你一个大大的灯笼🧅");
+        Swal.fire("元宵节快乐\n挽风送您一个大灯笼🧅");
         sessionStorage.setItem("isPopupWindow", "1");
     }
 }
 if ((lunar["IMonthCn"] == "五月" && lunar["IDayCn"] == "初五")) {
     //端午节
     if (sessionStorage.getItem("isPopupWindow") != "1") {
-        Swal.fire("端午节快乐\n挽风请你吃一个粽子🍙");
+        Swal.fire("端午节快乐\n挽风请您吃一个粽子🍙");
         sessionStorage.setItem("isPopupWindow", "1");
     }
 }
@@ -153,7 +153,7 @@ if ((lunar["IMonthCn"] == "七月" && lunar["IDayCn"] == "初七")) {
 if ((lunar["IMonthCn"] == "八月" && lunar["IDayCn"] == "十五")) {
     //中秋节
     if (sessionStorage.getItem("isPopupWindow") != "1") {
-        Swal.fire("中秋节快乐\n挽风请你吃一块月饼🍪");
+        Swal.fire("中秋节快乐\n挽风请您吃一块月饼🍪");
         sessionStorage.setItem("isPopupWindow", "1");
     }
 }
