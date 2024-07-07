@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://sonny2024.space/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sonny2024.space/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -38,7 +47,25 @@
   </url>
   
   <url>
-    <loc>https://sonny2024.space/box/animation/index.html</loc>
+    <loc>https://sonny2024.space/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sonny2024.space/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sonny2024.space/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://sonny2024.space/life/games/index.html</loc>
+    <loc>https://sonny2024.space/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,16 +110,7 @@
   </url>
   
   <url>
-    <loc>https://sonny2024.space/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sonny2024.space/life/movies/index.html</loc>
+    <loc>https://sonny2024.space/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -111,24 +129,6 @@
   
   <url>
     <loc>https://sonny2024.space/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sonny2024.space/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sonny2024.space/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
