@@ -15,8 +15,6 @@
           
           <category> 生活 </category>
           
-          <category> 阅读 </category>
-          
       </categories>
       
       
@@ -40,8 +38,6 @@
       
       <categories>
           
-          <category> 技术 </category>
-          
           <category> 机器人 </category>
           
       </categories>
@@ -49,7 +45,7 @@
       
         <tags>
             
-            <tag> 技术 </tag>
+            <tag> 机器人行业 </tag>
             
         </tags>
       
@@ -69,14 +65,12 @@
           
           <category> 生活 </category>
           
-          <category> 阅读 </category>
-          
       </categories>
       
       
         <tags>
             
-            <tag> 生活 </tag>
+            <tag> 书单 </tag>
             
         </tags>
       
@@ -93,8 +87,6 @@
       
       
       <categories>
-          
-          <category> 技术 </category>
           
           <category> 机械 </category>
           
@@ -123,8 +115,6 @@
       
       <categories>
           
-          <category> 资源 </category>
-          
           <category> 项目 </category>
           
       </categories>
@@ -149,8 +139,6 @@
       
       
       <categories>
-          
-          <category> 技术 </category>
           
           <category> 语言 </category>
           
@@ -177,8 +165,6 @@
       
       <categories>
           
-          <category> 技术 </category>
-          
           <category> 计算机 </category>
           
       </categories>
@@ -203,8 +189,6 @@
       
       
       <categories>
-          
-          <category> 技术 </category>
           
           <category> 机器人 </category>
           
@@ -256,8 +240,6 @@
       
       <categories>
           
-          <category> 技术 </category>
-          
           <category> 机械 </category>
           
       </categories>
@@ -284,8 +266,6 @@
       
       
       <categories>
-          
-          <category> 技术 </category>
           
           <category> 计算机 </category>
           
